@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "userWalletExists",
+        "transactionLabel": "A test userWalletExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createUserWallet",
+        "transactionLabel": "A test createUserWallet transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readUserWallet",
+        "transactionLabel": "A test readUserWallet transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateUserWallet",
+        "transactionLabel": "A test updateUserWallet transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteUserWallet",
+        "transactionLabel": "A test deleteUserWallet transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
